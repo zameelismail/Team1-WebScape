@@ -21,7 +21,7 @@ Welcome to the WebScape Design Competition! We're excited to see your creativity
 
 ## Repository Structure:
 
-- Each team has a dedicated branch (e.g., Team1-WebScape).
+- Each team has a dedicated branch.
 - Teams are responsible for their respective branches, ensuring code quality and adherence to rules.
 
 ## Submission:
